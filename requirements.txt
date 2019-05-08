@@ -1,0 +1,8 @@
+nltk
+wordcloud
+tqdm
+emoji
+nbimporter
+tensorflow
+keras
+afinn
