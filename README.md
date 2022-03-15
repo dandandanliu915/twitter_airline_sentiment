@@ -1,6 +1,8 @@
 # twitter_airline_sentiment
 This is a Data Science project that conducts a step-by-step sentiment analysis in Jupyter Notebooks
+
 Data source: https://www.kaggle.com/crowdflower/twitter-airline-sentiment
+
 
 Analysis steps include:
 1. [Exploratory data analysis](tweet_sentiment_analysis_1_EDA.ipynb)
